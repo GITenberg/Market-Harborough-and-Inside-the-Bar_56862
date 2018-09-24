@@ -1,10 +1,13 @@
 _repo: Market-Harborough-and-Inside-the-Bar_56862
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Charlton, John
     gutenberg_agent_id: '49062'
     url: http://www.gutenberg.org/2009/agents/49062
+covers:
+- cover_type: archival
+  image_path: 56862-h/images/cover.jpg
 creator:
   author:
     agent_name: Whyte-Melville, G. J. (George John)
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3832
     wikipedia: http://en.wikipedia.org/wiki/George_Whyte-Melville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56862#Market-Harborough-and-Inside-the-Bar
 gutenberg_issued: '2018-03-28'
 gutenberg_type: Text
 identifiers:
